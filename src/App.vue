@@ -1,16 +1,5 @@
 <template>
     <div id="app">
-        <p class="ml-4 text-red mt-4">Test 2</p>
+        <div class="h-64 w-64 bg-green-500"></div>
     </div>
 </template>
-
-<script>
-export default {
-    name: 'TailwindTest'
-}
-
-</script>
-
-<style scoped>
-
-</style>
